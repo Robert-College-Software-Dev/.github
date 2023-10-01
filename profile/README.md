@@ -1,4 +1,4 @@
-## Welcome to the Robert College Software Development Team's GitHub organization! 🚀
+Welcome to the Robert College Software Development Team's GitHub organization! 🚀
 
 # About Us:
 The Robert College Software Development Team is a dynamic group of  students and faculty members passionate about technology and software development. Based in the heart of Istanbul, Turkey, we are committed to fostering innovation, learning, and collaboration within our community.
